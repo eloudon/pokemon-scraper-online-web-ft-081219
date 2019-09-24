@@ -19,4 +19,4 @@ class Pokemon
   Pokemon.new(id: new_index[0], name: new_index[1], type: new_index[2], db: db)
   end
 
-end	end
+end
